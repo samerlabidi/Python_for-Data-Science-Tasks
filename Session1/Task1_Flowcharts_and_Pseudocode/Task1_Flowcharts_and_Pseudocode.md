@@ -1,4 +1,3 @@
-# Session 1 — Task 1: Flowcharts and Pseudocode
 
 ## Case 1 — Check if a number is prime
 
@@ -53,7 +52,6 @@ END
 
 ### Flowchart — Prime check
 
-![Prime number flowchart](prime_number_flowchart.png)
 
 ```mermaid
 flowchart TD
@@ -157,7 +155,6 @@ END
 
 ### Flowchart — French tax deduction
 
-![French tax deduction flowchart](french_tax_flowchart.png)
 
 ```mermaid
 flowchart TD
@@ -186,5 +183,4 @@ flowchart TD
 
 ---
 
-## How to read these on GitHub
-Open this file on GitHub — the Mermaid diagrams render as flowcharts automatically.
+
